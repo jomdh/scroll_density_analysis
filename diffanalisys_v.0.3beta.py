@@ -321,10 +321,11 @@ def main():
 
 
     # # Save the slices from the processed volume as TIFF files
-    # print("Saving slices...")
-    # save_slices_as_tiff(volume, output_folder)
-    # print("Slices saved.")
+    print("Saving slices...")
+    save_slices_as_tiff(volume, output_folder)
+    print("Slices saved.")
 
+    # Debugging pickles!
     # import pickle
     # # save the volume as a pickle file
     # with open(output_folder / 'volume.pkl', 'wb') as f:
