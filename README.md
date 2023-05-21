@@ -38,9 +38,6 @@ python volume_processor.py ./input ./output -t 0.5 -s 1.2 -g logarithmic -r 10 2
 
 This command will process the TIFF files in the `./input` directory and save the processed slices in the `./output` directory. It will apply a logarithmic gradient with a skew factor of 1.2 and an opacity threshold of 0.5. It will only process slices 10 through 20.
 
-## Important Note
-
-This program generates several plots for the purpose of visualizing the processed data. In order to proceed with the program, these plots must be manually closed.
 
 ## License
 
