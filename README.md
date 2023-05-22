@@ -1,10 +1,10 @@
-# Papyrus Unroll Analysis
+# Papyrus Differential Analysis
 
 ## Introduction
 
-Welcome to the Papyrus Unroll Analysis, a non-AI technique for the analysis and deciphering of ancient papyrus scrolls.
+Welcome to the Papyrus Differential Analysis, a non-AI technique for the analysis of scrolls.
 
-This is proposal leverages deterministic algorithms to stack 2D TIFF images into a 3D volume, emphasize features such as ink or text, and facilitate further in-depth investigation. The authenticity of the results is preserved by minimizing the risk of 'hallucinations'.
+This is proposal leverages deterministic algorithms to stack 2D TIFF images into a 3D volume, emphasize the ink, and facilitate further in-depth investigation. The authenticity of the results is preserved by minimizing the risk of 'hallucinations', since no ML technique is involved.
 
 
 
