@@ -33,7 +33,7 @@ python volume_processor.py <input_folder> <output_folder> [-t <opacity_threshold
 ## Example
 
 ```bash
-python volume_processor.py ./input ./output -t 0.5 -s 1.2 -g logarithmic -r 10 20
+python diffanalisys_v.0.3beta.py ./input ./output -t 0.5 -s 1.2 -g logarithmic -r 10 20
 ```
 
 This command will process the TIFF files in the `./input` directory and save the processed slices in the `./output` directory. It will apply a logarithmic gradient with a skew factor of 1.2 and an opacity threshold of 0.5. It will only process slices 10 through 20.
