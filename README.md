@@ -20,7 +20,7 @@ This is proposal leverages deterministic algorithms to stack 2D TIFF images into
 ## Usage
 
 ```bash
-python volume_processor.py <input_folder> <output_folder> [-t <opacity_threshold>] [-s <skew_factor>] [-g <gradient_type>] [-r <slice_range>]
+python diffanalisys_v.0.3beta.py <input_folder> <output_folder> [-t <opacity_threshold>] [-s <skew_factor>] [-g <gradient_type>] [-r <slice_range>]
 ```
 
 - `input_folder`: Path to the folder containing the input TIFF files. This argument is required.
