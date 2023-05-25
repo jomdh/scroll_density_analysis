@@ -1,10 +1,18 @@
 # Papyrus Differential Analysis
 
-## Introduction
 
 Welcome to the Papyrus Differential Analysis, a non-AI technique for the analysis of scrolls.
 
 This is proposal leverages deterministic algorithms to stack 2D TIFF images into a 3D volume, emphasize the ink, and facilitate further in-depth investigation. The authenticity of the results is preserved by minimizing the risk of 'hallucinations', since no ML technique is involved.
+
+# Content of the Repo:
+
+ - Notebook guiding through the reasoning of the analysis.
+ - Notebook with a POC for a graphical tool.
+ - A command line tool (see below).
+
+I'm working on a stand alone version, but it's in very early stage atm.
+
 
 
 
